@@ -72,6 +72,10 @@ button:hover{
   background: rgb(74, 74, 160);
 }
 
+h5{
+  margin-top:2rem ;
+}
+
 @media screen and (max-width: 550px) {
   .top-cover {
     border-radius: 3rem;
