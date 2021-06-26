@@ -14,39 +14,39 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(rgba(0, 0, 0, 0.250),rgba(0, 0, 0, 0.250)),url("/media/pexels-charlotte-may-5965930.jpg") no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)),url("/media/pexels-charlotte-may-5965930.jpg") no-repeat;
   background-position: center;
   background-size: cover;
 }
 .top-cover{
-  background:rgba(255, 255, 255, 0.7);
+  background:rgba(190, 184, 184, 0.7);
   padding:3rem;
-  box-shadow: 0px 20px 20px rgba(255, 255, 255, 0.274), 0px 0px 50px rgba(255, 255, 255, 0.295);
+  box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.274), 0px 0px 50px rgba(255, 255, 255, 0.295);
   font-size: 2rem;
   border-radius: 2rem;
   max-width: 50vh;
 }
 
 input {
-  color: white;
+  color: black;
   width: 100%;
   margin-top: 1rem;
   margin-bottom: 1rem;
-  background: rgb(146, 146, 132);
+  background: rgb(196, 196, 176);
   padding: 1rem 5rem;
   border-radius: 1rem;
   border: none;
 }
 
 select{
-  color: white;
+  color: black;
   width: 100%;
   padding: 1rem;
   border: none;
   border-radius: 1rem;
   margin-top:1rem ;
   margin-bottom: 1rem;
-  background: rgb(146, 146, 132);
+  background: rgb(196, 196, 176);
 }
 
 button {
